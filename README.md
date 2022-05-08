@@ -8,8 +8,8 @@
 ## cofacts_02_cleansing and clustering
 將斷詞後的檔案輸入並清理
 簡轉繁、刪除英文與數字組成的segment（因此只能處理中文）
-分群方法參考 https://medinform.jmir.org/2021/11/e30467
-結合HAC與KNN
+分群方法結合HAC與KNN演算法
+文獻參考 https://medinform.jmir.org/2021/11/e30467 
 
 ## cofacts_03_sort_rumor
 indicator 1: 每群裡面有幾種變體
