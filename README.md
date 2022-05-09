@@ -16,5 +16,5 @@ indicator 1: 每群裡面有幾種變體
 indicator 2: 每篇文章在特定區間內有多少查詢瀏覽量  
 indicator 3: 每群文章在特定區間內有多少查詢瀏覽量  
 
-## cofacts_04_visualization_general
+## cofacts_04_visualization_rumor
 針對不同需求、種類視覺化  
