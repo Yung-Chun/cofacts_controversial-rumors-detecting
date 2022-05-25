@@ -11,7 +11,7 @@ data cleansing: transform simplified chinese to traditional chinese, delete Engl
 define whether this report is rumor by calculating its fact-check replies and netizens' reactions. 
 
 ## 04_cofacts_clustering
-cluster reports via HAC+KNN. 
+cluster reports via HAC+KNN  
 Reference: https://medinform.jmir.org/2021/11/e30467  
 
 ## 05_cofacts_tedency_stats
